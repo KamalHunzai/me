@@ -9,9 +9,9 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" role="complementary" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Dhruv Barochiya</a></h1>
-              <span className="email"><i className="icon-mail"></i> Dhruv.barochiya34788@gmail.com</span>
-              <span className="number"><i className="icon-phone"></i> +91-886-600-5687</span>
+              <h1 id="colorlib-logo"><a href="index.html">Kamal Hussain</a></h1>
+              <span className="email"><i className="icon-mail"></i> kamalhussainhunzai@gmail.com</span>
+              <span className="number"><i className="icon-phone"></i> +92-(0)3132111334</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -26,18 +26,18 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.facebook.com/dhruv.barochia" target="_blank"><i className="icon-facebook2" /></a></li>
-                <li><a href="https://twitter.com/ddbarochiya" target="_blank"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com/ddbarochiya/" target="_blank"><i className="icon-instagram" /></a></li>
-                <li><a href="https://www.linkedin.com/in/dhruv-b-545b52a9/" target="_blank"><i className="icon-linkedin2" /></a></li>
-                <li><a href="https://github.com/Dhruv34788" target="_blank"><i className="icon-github"></i></a></li>
-                <li><a href="https://medium.com/@dhruv.barochia34788" target="_blank"><i className="icon-blogger2"></i></a></li>
+                <li><a href="https://www.facebook.com/kamalhussainhunzai" target="_blank"><i className="icon-facebook2" /></a></li>
+                <li><a href="https://twitter.com/kamal_hunzai" target="_blank"><i className="icon-twitter2" /></a></li>
+                <li><a href="https://www.instagram.com/kamalhunzai/" target="_blank"><i className="icon-instagram" /></a></li>
+                <li><a href="https://www.linkedin.com/in/kamalhunzai/" target="_blank"><i className="icon-linkedin2" /></a></li>
+                <li><a href="https://github.com/kamalhunzai" target="_blank"><i className="icon-github"></i></a></li>
+                <li><a href="https://medium.com/@kamalhunzai" target="_blank"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
-                  Thanks <a href="https://colorlib.com" target="_blank">Colorlib</a> for inspiration 
+                  Made with React <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
+
               </small></p>
               <p><small>
                   Automated deployment on gh-pages using Travis-CI
