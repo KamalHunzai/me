@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="#">Founder/CEO at DotAustere </a> <span>March 2018- Present</span></h2>
+                        <h2><a href="https://www.dotaustere.com">Founder/Principal Engineer at DotAustere </a> <span>March 2018- Present</span></h2>
                         <p>I am a a team leader & Full stack engineer capable of performing tasks at any level of the technical stack in which they reside:
                       I work with systems infrastructure, creating, manipulating, and querying databases (SQL or NoSql databases),API / back-end code in JavaScript using Nodejs.
                       Front-end code in one or more languages, e.g. HTML,CSS ,JavaScript (ReactJS,Angular,VueJs) Mobile Applications coding using JavaScript React Native (iOS & Android), Native iOS with Swift/Objective C.
